@@ -4,8 +4,7 @@
   "description": "Node + Ts 编写接口",
   "main": "server.ts",
   "scripts": {
-    "start": "tsc && nodemon build/server.js",
-    ""
+    "start": "tsc && nodemon build/server.js"
   },
   "repository": {
     "type": "git",
