@@ -4,7 +4,8 @@
   "description": "Node + Ts 编写接口",
   "main": "server.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "tsc && nodemon build/server.js",
+    ""
   },
   "repository": {
     "type": "git",
