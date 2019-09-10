@@ -1,0 +1,20 @@
+{
+  "name": "node-ts",
+  "version": "1.0.0",
+  "description": "Node + Ts 编写接口",
+  "main": "server.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/141zhongyiChen/Node-Ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/141zhongyiChen/Node-Ts/issues"
+  },
+  "homepage": "https://github.com/141zhongyiChen/Node-Ts#readme"
+}
