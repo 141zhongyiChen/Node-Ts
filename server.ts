@@ -1,7 +1,8 @@
 // console.log('node-typescript-api')
 
 import express from 'express'
-import { apiGetPosts, apiGetPostsDetails } from './api/posts/apiGetPost'
+import { apiGetPosts } from './api/posts/apiGetPost'
+import { apiGetPostsDetails } from './api/posts/apiGetPostDetails'
  
 const app = express()
 
